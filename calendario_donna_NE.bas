@@ -64,4 +64,4 @@
 1090 FORS=1TO14:LPRINT" ":NEXTS:RETURN
 
 NOTE REDAZIONALI 
-Pubblichiamo questo programma, perche oltre a stamparci in anteprima un qualsiasi anno, potra servire a molti come esercizio di programmazione. Non potendo inserire sulla rivista il calendario completo, no pubblichiamo i colprimi tre mesi e relativa modela 117
+Pubblichiamo questo programma, perche' oltre a stamparci in anteprima un qualsiasi anno, potra' servire a molti come esercizio di programmazione. Non potendo inserire sulla rivista il calendario completo, ne pubblichiamo i primi tre mesi e relativa modella
